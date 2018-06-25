@@ -1,0 +1,13 @@
+body {
+		background-color: #EC4141;
+}
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial;
+}
+div#image{
+	width: 250px;
+	height: 150px;
+	margin: 30px;
+	background-image: url(../image/service.jpg);
